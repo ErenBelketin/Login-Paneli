@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\bin\Debug\Login Paneli.exe.config
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\bin\Debug\Login Paneli.exe
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\bin\Debug\Login Paneli.pdb
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login Paneli.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login_Paneli.Form1.resources
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login_Paneli.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login Paneli.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login Paneli.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login Paneli.exe
+C:\Users\ASUS\source\repos\Login Paneli\Login Paneli\obj\Debug\Login Paneli.pdb
